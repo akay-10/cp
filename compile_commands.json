@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/akayhomie/code/cp",
+    "command": "g++ -DLOCAL -std=c++17 -O2 -Wall -Wextra -o code code.cc",
+    "file": "code.cc"
+  }
+]
