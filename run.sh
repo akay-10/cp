@@ -12,7 +12,7 @@
 # =============================================================================
 
 MODE="local"     # default mode
-SOURCE="code.cc" # default source file
+SOURCE="code.cpp" # default source file
 
 # Color output. Init colors only when this process's fd 1 (stdout) is connected
 # to a terminal.
